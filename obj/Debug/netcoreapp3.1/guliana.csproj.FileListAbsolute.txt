@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\guliana\guliana\guliana\bin\Debug\netcoreapp3.1\guliana.exe
+C:\Users\student\Desktop\guliana\guliana\guliana\bin\Debug\netcoreapp3.1\guliana.deps.json
+C:\Users\student\Desktop\guliana\guliana\guliana\bin\Debug\netcoreapp3.1\guliana.runtimeconfig.json
+C:\Users\student\Desktop\guliana\guliana\guliana\bin\Debug\netcoreapp3.1\guliana.runtimeconfig.dev.json
+C:\Users\student\Desktop\guliana\guliana\guliana\bin\Debug\netcoreapp3.1\guliana.dll
+C:\Users\student\Desktop\guliana\guliana\guliana\bin\Debug\netcoreapp3.1\guliana.pdb
+C:\Users\student\Desktop\guliana\guliana\guliana\obj\Debug\netcoreapp3.1\guliana.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\guliana\guliana\guliana\obj\Debug\netcoreapp3.1\guliana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\guliana\guliana\guliana\obj\Debug\netcoreapp3.1\guliana.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\guliana\guliana\guliana\obj\Debug\netcoreapp3.1\guliana.AssemblyInfo.cs
+C:\Users\student\Desktop\guliana\guliana\guliana\obj\Debug\netcoreapp3.1\guliana.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\guliana\guliana\guliana\obj\Debug\netcoreapp3.1\guliana.dll
+C:\Users\student\Desktop\guliana\guliana\guliana\obj\Debug\netcoreapp3.1\guliana.pdb
+C:\Users\student\Desktop\guliana\guliana\guliana\obj\Debug\netcoreapp3.1\guliana.genruntimeconfig.cache
